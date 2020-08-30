@@ -9,3 +9,4 @@ Run the file using command (Add any extra argument , if required):
 ```bash
 $ ./<name of file> <optional arguments..>
 ```
+## Please contribute towards more scripts :smiley:
